@@ -1,0 +1,32 @@
+--beginning of program
+Process: Parent 
+Process ID: 13262
+--beginning of programProcess: Child
+	Process ID: 13263
+	Parent Process ID: 13262
+	 Child Counter: 0 
+ Parent Counter: 0   
+Process: Parent 
+Process ID: 13262
+ Parent Counter: 1   
+Process: Parent 
+Process ID: 13262
+ Parent Counter: 2   
+Process: Parent 
+Process ID: 13262
+	Sleeping For 2 s Process: Child
+	Process ID: 13263
+	Parent Process ID: 13262
+	 Child Counter: 1 
+ Parent Counter: 3   
+Process: Parent 
+Process ID: 13262
+ Parent Counter: 4   
+Process: Parent 
+Process ID: 13262
+^C	Sleeping For 5 s 
+Ctrl+C Detected Signal ID 2
+ Parent Counter: 5   
+Ending Program
+Ctrl+C Detected Signal ID 2
+Ending Program
