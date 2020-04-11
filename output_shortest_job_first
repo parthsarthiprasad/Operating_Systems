@@ -1,0 +1,30 @@
+Enter number of Process: 12
+Selected the process ID, arrival time and burst time Randomly
+Before Arrange...
+Process ID	Arrival Time	Burst Time
+1		4		2
+1		18		1
+1		14		1
+1		7		3
+1		10		2
+1		3		3
+1		11		5
+1		4		2
+1		1		2
+1		13		2
+1		12		4
+1		8		5
+Final Result...
+Process ID	Arrival Time	Burst Time	Waiting  		 Time	Turnaround Time
+1		1		2		0		2
+1		3		3		0		3
+1		4		2		2		4
+1		4		2		4		6
+1		10		2		0		2
+1		7		3		5		8
+1		14		1		1		2
+1		13		2		3		5
+1		18		1		0		1
+1		12		4		7		11
+1		11		5		12		17
+1		8		5		20		25
