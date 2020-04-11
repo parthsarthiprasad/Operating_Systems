@@ -1,0 +1,25 @@
+1.Producer
+2.Consumer
+3.Exit1
+Producer produces the item 1
+1
+Producer produces the item 2
+1
+Producer produces the item 3
+1
+Producer produces the item 4
+1
+Producer produces the item 5
+2
+Consumer consumes item 5
+2
+Consumer consumes item 4
+2
+Consumer consumes item 3
+2
+Consumer consumes item 2
+2
+Consumer consumes item 1
+2
+X is Empty!2
+X is Empty!3
