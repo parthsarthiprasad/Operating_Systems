@@ -1,0 +1,29 @@
+1.Producer
+2.Consumer
+3.Exit1
+Producer produces the item 1
+2
+Consumer consumes item 1
+1
+Producer produces the item 1
+1
+Producer produces the item 2
+1
+Producer produces the item 3
+1
+Buffer is full!2
+Consumer consumes item 3
+2
+Consumer consumes item 2
+2
+Consumer consumes item 1
+2
+Buffer is empty!
+2
+Buffer is empty!1
+Producer produces the item 1
+1
+Producer produces the item 2
+1
+Producer produces the item 3
+3
