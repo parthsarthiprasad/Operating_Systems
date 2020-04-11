@@ -1,0 +1,17 @@
+Enter Number of Processes : 12
+Selected Process id and Burst time Randomly
+Processes  Burst time  Waiting time  Turn around time
+ 1		4	 0		 4
+ 2		7	 4		 11
+ 3		8	 11		 19
+ 4		6	 19		 25
+ 5		4	 25		 29
+ 6		6	 29		 35
+ 7		7	 35		 42
+ 8		3	 42		 45
+ 9		10	 45		 55
+ 10		2	 55		 57
+ 11		3	 57		 60
+ 12		8	 60		 68
+Average waiting time = 31.8333
+Average turn around time = 37.5(base) 
